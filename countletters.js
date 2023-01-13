@@ -16,5 +16,4 @@ function contaLetras(string, letra) {
     }
 return cl
 }
-return arr;
-}
+
